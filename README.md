@@ -1,5 +1,9 @@
 # AI Applications Project
 
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Vite Logo](https://vitejs.dev/logo.svg)
+![Flask Logo](https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png)
+
 Welcome to the AI Applications Project! This application utilizes Vite with React for the frontend and Python Flask for the backend. It offers two main features:
 
 1. **Paragraph Summarization**: Summarize lengthy paragraphs into concise versions.
