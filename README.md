@@ -1,8 +1,11 @@
 # AI Applications Project
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Vite Logo](https://vitejs.dev/logo.svg)
-![Flask Logo](https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png)
+<p>This project uses the following technologies:</p>
+<ul>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30"/> <strong>React</strong></li>
+  <li><img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="30"/> <strong>Vite</strong></li>
+  <li><img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="Flask Logo" width="30"/> <strong>Flask</strong></li>
+</ul>
 
 Welcome to the AI Applications Project! This application utilizes Vite with React for the frontend and Python Flask for the backend. It offers two main features:
 
